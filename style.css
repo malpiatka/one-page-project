@@ -51,7 +51,7 @@ body {
 .bar::before,
 .bar::after {
 	transition: 0.2s background linear 0.1s, 0.2s top linear 0.2s,
-		0.2s transform linear;
+	0.2s transform linear;
 	position: absolute;
 	background: rgb(255, 255, 255);
 	margin: auto;
